@@ -67,4 +67,4 @@ params:
       untitled: true
   description: Keep up-to-date with the status of Onyx and its services.
   enableCustomHTML: true
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
