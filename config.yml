@@ -48,7 +48,7 @@ params:
       description: The part that notifies users of changes.
       category: Uncategorized
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#ffffff"
+  brand: "#000000"
   enableLastMod: true
   headerTextColor: white
   logo: /img/logo-square-.png
